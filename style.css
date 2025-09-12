@@ -9,7 +9,7 @@ body,
 
 body {
   background-color: #ffffff;
-  font-size: 30px;
+  font-size: 60px;
 }
 
 h1 {
@@ -27,3 +27,27 @@ h3 {
     font-family: "Sirivennela";
 }
 
+
+.post {
+    background-color:rgba(0, 0, 0, 0.5);
+    margin: 20px;
+    text-align: center;
+    font-size: 200%;
+}
+
+.upper {
+    background-image: 
+    url("");
+}
+
+a:link {
+  color:;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
