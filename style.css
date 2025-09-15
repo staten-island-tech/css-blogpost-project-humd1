@@ -89,11 +89,11 @@ body {
 
 #post1 {
     padding-top: 30px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.16), rgba(70, 6, 6, 0.293));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.16), rgba(70, 6, 6, 0.39));
 }
 
 #post2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.16), rgba(119, 61, 6, 0.293));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.16), rgba(119, 61, 6, 0.325));
 }
 
 #post3 {
